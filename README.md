@@ -12,5 +12,3 @@ Open your **Command Prompt (CMD)** or **PowerShell** and run the following comma
 
 ```powershell
 winget install -e --id Insecure.Nmap
-
-Translated with DeepL.com (free version)
