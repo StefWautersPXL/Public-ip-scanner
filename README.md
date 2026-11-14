@@ -1,10 +1,10 @@
-#  Public IP Scanner
+#  Public IP Address Scanner
 
-A simple guide and toolset for quickly scanning public IP addresses and networks using **Nmap**.
+A simple guide and a set of tools to quickly scan your own public IP addresses and networks using **Nmap**.
 
-##  Prerequisites
+##  Requirements
 
-For this scanner, you’ll need the **Nmap** network tool installed on your system.
+To use this scanner, the **Nmap** network tool must be installed on your system.
 
 ### Installation
 
