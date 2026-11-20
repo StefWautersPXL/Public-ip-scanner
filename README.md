@@ -1,6 +1,6 @@
 #  Public IP Address Scanner
 
-A simple guide and a set of tools to quickly scan your own public IP addresses and networks using **Nmap**.
+A simple guide and a set of tools to quickly scan your own public IP addresses and networks using [**Nmap**](https://nmap.org/).
 
 ##  Requirements
 
